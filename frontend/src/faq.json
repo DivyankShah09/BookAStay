@@ -1,0 +1,66 @@
+[
+    {
+        "header": "How do I make a reservation on your website?",
+        "text": "Making a reservation is easy! Simply go to our homepage, enter your destination, check-in and check-out dates, and the number of guests. Then browse through the available options and select the one that suits you best. Follow the prompts to complete your booking securely."
+    },
+    {
+        "header": "Can I modify or cancel my reservation?",
+        "text": "Yes, you can modify or cancel your reservation depending on the hotel's cancellation policy. Just log in to your account, go to 'My Bookings,' and select the reservation you wish to change. Follow the instructions provided, and if there are any fees associated with modifications or cancellations, they will be clearly outlined."
+    },
+    {
+        "header": "What payment methods do you accept?",
+        "text": "We accept a variety of payment methods including major credit cards, debit cards, and sometimes alternative payment options like PayPal or bank transfers. The accepted payment methods will be displayed during the booking process."
+    },
+    {
+        "header": "Do I need to create an account to make a reservation?",
+        "text": "While it's not mandatory to create an account, having one makes the booking process faster and allows you to easily manage your reservations. Plus, you'll receive exclusive offers and updates on deals tailored to your preferences."
+    },
+    {
+        "header": "Is breakfast included in the room rate?",
+        "text": "The inclusion of breakfast varies depending on the hotel and the room rate you choose. You can find this information listed under each room option during the booking process. If breakfast is included, it will be clearly stated."
+    },
+    {
+        "header": "What amenities are available at the hotel?",
+        "text": "Each hotel offers a unique set of amenities, which you can find listed on the hotel's page. Common amenities include free Wi-Fi, parking, swimming pools, fitness centers, and dining options. You can also filter your search based on specific amenities you desire."
+    },
+    {
+        "header": "How do I know if my reservation is confirmed?",
+        "text": "After completing your booking, you'll receive a confirmation email containing all the details of your reservation. You can also log in to your account to view your booking under 'My Bookings.' If you don't receive a confirmation email, please check your spam folder or contact our customer support team for assistance."
+    },
+    {
+        "header": "Can I request special accommodations, such as a crib or wheelchair-accessible room?",
+        "text": "Absolutely! During the booking process, you'll have the opportunity to make special requests or specify any requirements you may have. We'll do our best to accommodate your needs, but please note that special requests are subject to availability."
+    },
+    {
+        "header": "What should I do if I encounter any issues during my stay?",
+        "text": "If you encounter any issues during your stay, please notify the hotel staff immediately so they can address them promptly. If the issue remains unresolved, you can reach out to our customer support team, and we'll do our best to assist you and ensure you have a comfortable stay."
+    },
+    {
+        "header": "Are pets allowed at the hotel?",
+        "text": "Pet policies vary by hotel, so it's best to check the hotel's page or contact them directly to inquire about their pet policy. Some hotels are pet-friendly and may charge an additional fee, while others may have restrictions or specific rules regarding pets."
+    },
+    {
+        "header": "What is your cancellation policy?",
+        "text": "Our cancellation policy varies depending on the hotel and the type of booking you make. You can find detailed information about the cancellation policy for each room option during the booking process. Please review the terms carefully before confirming your reservation."
+    },
+    {
+        "header": "Do you offer airport shuttle services?",
+        "text": "Some of our partner hotels offer airport shuttle services for an additional fee. You can check if this service is available by visiting the hotel's page and looking under the 'Amenities' section. Alternatively, you can contact the hotel directly for more information."
+    },
+    {
+        "header": "Is there parking available at the hotel?",
+        "text": "Many of our partner hotels offer parking facilities, but availability may vary depending on the location and the hotel's amenities. You can find information about parking availability and any associated fees on the hotel's page under the 'Amenities' section."
+    },
+    {
+        "header": "Do you have a loyalty program?",
+        "text": "Yes, we have a loyalty program that rewards our frequent guests with exclusive benefits and discounts. You can sign up for our loyalty program on our website or during the booking process. Membership is free, and you'll start earning points with your first booking."
+    },
+    {
+        "header": "Can I request a specific room location or view?",
+        "text": "While we cannot guarantee specific room locations or views, you can make requests during the booking process, and we'll do our best to accommodate them based on availability. Please note that special requests are subject to availability and cannot be guaranteed."
+    },
+    {
+        "header": "How can I contact customer support if I need assistance?",
+        "text": "If you need assistance or have any questions, you can contact our customer support team via phone, email, or live chat. Our dedicated team is available 24/7 to assist you with any inquiries or issues you may have before, during, or after your stay."
+    }
+]
