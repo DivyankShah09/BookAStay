@@ -1,4 +1,4 @@
-# D3 Web Application by Group 7
+# Book-A-Stay
 
 ## Introduction
 
